@@ -10,3 +10,6 @@ Artikel Solusi Masalah Iklim
 Beberapa Kode
 Python
 Jinja
+
+**RUJUKAN
+bot discord ini akan mengirim lokasi kamu lalu membuat solusi dengan situasi lokasi mu
